@@ -24,7 +24,7 @@ Users should be able to:
 - View all products
 - View products by category
 - Search for products
-- Add products to the shopping cart
+- Add/remove products to the shopping cart
 
 ### Links
 
