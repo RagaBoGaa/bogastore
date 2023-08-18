@@ -1,21 +1,21 @@
 # Simple Ecommerce training
 
-This is my first ecommerce project using ReactJs
+This is my first E-commerce project using ReactJs
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Features](#Features)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
+  - [Author](#author)
+  - [Screenshot](#screenshot)
 
 ## Overview
 
-###
+### Features
 
 Users should be able to:
 
@@ -24,38 +24,26 @@ Users should be able to:
 - View all products
 - View products by category
 - Search for products
-- Add products to the cart shopping
-
-### Screenshot
-
-- Mobile
-
-![](./mobile-light.png)
-
-- Desktop
-
-![](./desktop-light.png)
+- Add products to the shopping cart
 
 ### Links
 
 - Live Site URL: [@via Vercel](https://my1st-react-app.vercel.app/)
 - Live Site URL: [@via Netlify](https://my1st-react-app.netlify.app/)
-- Solution URL: [@via frontend mentor](<[https://your-solution-url.com](https://www.frontendmentor.io/solutions/advanced-todo-app-using-viteandreact-with-dark-mode-and-drag-and-drop-a6gXXHgy_Q)>)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- JSX syntax
-- React Hooks (useState, useEffect)
 - [React](https://reactjs.org/) - JS library
 - [Vite](https://vitejs.dev/) - Build tool
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop
+- [ReduxJs/toolkit](https://redux-toolkit.js.org/) - StateManagement
+- [React-slick](https://react-slick.neostack.com/) - Slider
+- [TailwindCss](https://tailwindcss.com/) - CSS framework
 
 ### What I learned
 
-be more confident writing ReactJs by using React Hooks (useState, useEffect) and external libraries.
+- The core concept of building e-commerce UI
+- How to use TailwindCSS
+- Practiced more on how to use global stateManagement like Reduxjs/toolkit
 
 ### Continued development
 
@@ -65,3 +53,20 @@ Build more projects with Reactjs
 
 - Website - [Ragaboga](https://github.com/RagaBoGaa)
 - Frontend Mentor - [@RagaBoGaa](https://www.frontendmentor.io/profile/RagaBoGaa)
+
+### Screenshot
+
+- Mobile
+
+![](./mobile.png)
+![](./mobile-full-cart.png)
+
+- Desktop
+
+![](./desktop.png)
+
+![](./desktop-cat.png.png)
+
+![](./desktop-empty-crt.png)
+
+![](./desktop-full-cart.png)
