@@ -5,7 +5,7 @@ This is my first E-commerce project using ReactJs
 ## Table of contents
 
 - [Overview](#overview)
-  - [Features](#Features)
+  - [Features](#features)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
