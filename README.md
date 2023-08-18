@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [@via Vercel](https://my1st-react-app.vercel.app/)
-- Live Site URL: [@via Netlify](https://my1st-react-app.netlify.app/)
+- Live Site URL: [@via Vercel](https://bogastore.vercel.app/)
+- Live Site URL: [@via Netlify](https://bogastore.netlify.app/)
 
 ### Built with
 
@@ -52,7 +52,6 @@ Build more projects with Reactjs
 ## Author
 
 - Website - [Ragaboga](https://github.com/RagaBoGaa)
-- Frontend Mentor - [@RagaBoGaa](https://www.frontendmentor.io/profile/RagaBoGaa)
 
 ### Screenshot
 
