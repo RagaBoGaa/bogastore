@@ -47,7 +47,12 @@ function SideBar() {
                 key={category}
                 className="py-2 capitalize transition-all duration-300 hover:translate-x-2 hover:text-red-400"
               >
-                <Link to={`category/${category}`}>{category}</Link>
+                <Link
+                  onClick={() => dispatch(hideSideBar())}
+                  to={`category/${category}`}
+                >
+                  {category}
+                </Link>
               </li>
             ))
           )}
