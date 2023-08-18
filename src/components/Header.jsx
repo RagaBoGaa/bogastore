@@ -108,7 +108,7 @@ function Header() {
             />
             <Link
               to={`/search/${query}`}
-              className="absolute right-0 top-0 rounded-sm bg-red-300 px-4 py-1 focus:outline-none focus:ring-2 focus:ring-red-100"
+              className="absolute bottom-0 right-0 top-0 rounded-sm bg-red-300 px-4 py-1 focus:outline-none focus:ring-2 focus:ring-red-100"
             >
               <i
                 className="fa-solid fa-magnifying-glass"
